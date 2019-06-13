@@ -118,7 +118,7 @@
           "architecture": "nrf52",
           "version": "1.0.1",
           "category": "AuthGate",
-          "url": "https://authgate.github.io/authgate-board-index/Boards/authgate-nrf52832-1.0.1.tar.bz2",
+          "url": "https://authgate.github.io/authgate-board-index/boards/authgate-nrf52832-1.0.1.tar.bz2",
           "archiveFileName": "authgate-nrf52832-1.0.1.tar.bz2",
           "checksum": "SHA-256:093ed9627936f93a779aafc192236d8815968761f8a8dccbc453173c4fc8a590",
           "size": "16401048",
