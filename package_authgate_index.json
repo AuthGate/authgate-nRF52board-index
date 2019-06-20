@@ -328,6 +328,42 @@
               "version": "9.4.0"
             }
           ]
+        },
+        {
+          "name": "AuthGate nRF52832",
+          "architecture": "nrf52",
+          "version": "1.2.2",
+          "category": "AuthGate",
+          "url": "https://authgate.github.io/authgate-board-index/boards/authgate-nrf52832-1.2.2.tar.bz2",
+          "archiveFileName": "authgate-nrf52832-1.2.2.tar.bz2",
+          "checksum": "SHA-256:88a8e46a02b8ba1a5f48b88051dd9db7a3df41bbed2cbee3c5fae1bbf9edfbfb",
+          "size": "15829828",
+          "help": {
+            "online": "https://authgate.com"
+          },
+          "boards": [
+            {
+              "name": "DevPAD nRF52832"
+            },
+            {
+              "name": "SparkfunPAD nRF52832"
+            },
+            {
+              "name": "BodyPAD nRF52832"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "adafruit",
+              "name": "nrfjprog",
+              "version": "9.4.0"
+            }
+          ]
         }
       ]
     }
