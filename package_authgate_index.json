@@ -162,8 +162,8 @@
           "category": "AuthGate",
           "url": "https://authgate.github.io/authgate-board-index/boards/authgate-nrf52832-1.4.1.tar.bz2",
           "archiveFileName": "authgate-nrf52832-1.4.1.tar.bz2",
-          "checksum": "SHA-256:5d834a3fa8dafc4f7b1b714e7b8b2565369e344cdb4a182341d21807ad6d5616",
-          "size": "15833784",
+          "checksum": "SHA-256:f3707dec5a030a2af500aced8bc7f4084098530bf3657f9fbb5508f632c2b8f7",
+          "size": "15832141",
           "help": {
             "online": "https://authgate.com"
           },
