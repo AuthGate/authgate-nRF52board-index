@@ -120,8 +120,8 @@
           "category": "AuthGate",
           "url": "https://authgate.github.io/authgate-nRF52board-index/boards/authgate-nRF52-1.4.2.tar.bz2",
           "archiveFileName": "authgate-nRF52-1.4.2.tar.bz2",
-          "checksum": "SHA-256:f3707dec5a030a2af500aced8bc7f4084098530bf3657f9fbb5508f632c2b8f7",
-          "size": "15832141",
+          "checksum": "SHA-256:fb4fc19a5e66206d9b3bc41f5a5a014ffed061407f756dd5cac206512dd637a8",
+          "size": "15832150",
           "help": {
             "online": "https://authgate.com"
           },
