@@ -116,12 +116,12 @@
         {
           "name": "AuthGate nRF52",
           "architecture": "nrf52",
-          "version": "1.4.2",
+          "version": "1.5.0",
           "category": "AuthGate",
-          "url": "https://authgate.github.io/authgate-nRF52board-index/boards/authgate-nRF52-1.4.2.tar.bz2",
-          "archiveFileName": "authgate-nRF52-1.4.2.tar.bz2",
-          "checksum": "SHA-256:fb4fc19a5e66206d9b3bc41f5a5a014ffed061407f756dd5cac206512dd637a8",
-          "size": "15832150",
+          "url": "https://authgate.github.io/authgate-nRF52board-index/boards/authgate-nRF52-1.5.0.tar.bz2",
+          "archiveFileName": "authgate-nRF52-1.5.0.tar.bz2",
+          "checksum": "SHA-256:2eb6b9e826821c5481d7972b6f3a9e6048fb653d2898b98896243d1eee3a0302",
+          "size": "15832889",
           "help": {
             "online": "https://authgate.com"
           },
@@ -140,6 +140,9 @@
             },
             {
               "name": "RS485BLE"
+            },
+            {
+              "name": "VendPAD"
             }
           ],
           "toolsDependencies": [
