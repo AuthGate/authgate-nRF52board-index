@@ -391,6 +391,54 @@
               "version": "9.4.0"
             }
           ]
+        },
+        {
+          "name": "AuthGate nRF52",
+          "architecture": "nrf52",
+          "version": "1.8.0",
+          "category": "AuthGate",
+          "url": "https://authgate.github.io/authgate-nRF52board-index/boards/AuthGate_nRF52_Arduino-1.8.0.tar.bz2",
+          "archiveFileName": "AuthGate_nRF52_Arduino-1.8.0.tar.bz2",
+          "checksum": "SHA-256:5db9333f0c46e7e85051adcd4749e85ec909faf98323c267fba6506349f3ea99",
+          "size": "15777345",
+          "help": {
+            "online": "https://authgate.com"
+          },
+          "boards": [
+            {
+              "name": "ActiGate"
+            },
+            {
+              "name": "BodyPAD"
+            },
+            {
+              "name": "BodyPADLite"
+            },
+            {
+              "name": "DevPAD"
+            },
+            {
+              "name": "FireExt"
+            },
+            {
+              "name": "RS485BLE"
+            },
+            {
+              "name": "VendPAD"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "adafruit",
+              "name": "nrfjprog",
+              "version": "9.4.0"
+            }
+          ]
         }
       ]
     }
